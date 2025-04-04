@@ -1,4 +1,4 @@
-## Hi there, I'm Maizah
+## Hi there, call me "mei"
 > Gemini | Intp-T | 5w6
 
 - Currently a student in the PH
