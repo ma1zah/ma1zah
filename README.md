@@ -1,13 +1,14 @@
-## Hi there 👋
-<p>- 🔭 I’m currently working on nothing for now</p>
-<p>- 🌱 I’m currently learning python</p>
-<p>- 😄 Pronouns: She/Her</p>
+## Hi there, I'm Maizah
+> Gemini | Intp-T | 5w6
 
-<!--
-**ma1zah/ma1zah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Currently a student in the PH
+- Currently HTML, CSS, Python and more
+- Interested in web dev, design, and cool ideas
+- Likes exploring + building little projects (ending up not finishing most of them)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on nothing for now
-- 🌱 I’m currently learning python
-- 😄 Pronouns: She/Her
+### Tech Stack:
+- HTML | CSS | JavaScript
+- Python (beginner)
+- Canva, Figma (design)
