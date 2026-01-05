@@ -4,7 +4,7 @@
 🎓 Currently a student in the PH  
 💻 Currently learning JavaScript  
 🌌 Interested in web dev, app dev, design, and cool ideas  
-📚 Likes exploring + building little projects (ending up not finishing most of them)  
+📚 Likes exploring + building little projects + solving errors or problems (ending up not finishing most of them)  
 
 ---
 
