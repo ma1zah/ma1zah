@@ -1,5 +1,5 @@
 ## Hi there, call me "mei"
-> Gemini | INTP-T | 5w6 | 15 y/o
+> Gemini | INTP | 5w6 | 16 y/o
 
 🎓 Currently a student in the PH  
 💻 Currently learning JavaScript  
